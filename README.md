@@ -73,7 +73,9 @@ If you have suggestions, bug reports, or feature requests, feel free to open an 
 This script is released under the [MIT License](LICENSE).
 ```
 
-Donate if you ... :)  : 0xc177e861fD9a9F598236C7183e105b9CCec9cb3e
+Donate if you ... :)
+
+0xc177e861fD9a9F598236C7183e105b9CCec9cb3e
 bc1q3230gkphdk5qzsxtj079mz5w35svwrpwq6wh8c
 
 This README provides clear instructions on using your script, customizing its behavior, handling errors, and includes important security considerations. Users can refer to it to understand how your script works and how to use it effectively.
